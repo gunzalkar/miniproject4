@@ -1,0 +1,61 @@
+body {
+	background-image: url(background.jpg);
+	background-size: cover;
+} 
+.title {
+	text-transform: uppercase;
+	font-family: 'Bungee Outline', cursive;
+	color:rgb(0,0,233);
+	text-align: center;
+	font-size: 100px;
+	cursor: pointer; 
+	padding: top 100px;
+
+}
+.register{
+	font-size: 25px;
+	text-align:right;
+	color:black;
+	text-align: center;
+}
+.Email{
+	font-size: 25px;
+	text-align: right;
+}
+.password
+{
+	font-size: 25px;
+	text-align: right;
+}
+.form
+{
+	font-size: 25px;
+	text-align: center;
+}
+.login{
+	font-size: 30px;
+	text-align: center;
+	cursor: pointer;
+	color: green;
+}
+.forgot{
+	font-size: 20px;
+	text-align: center;
+	cursor: pointer;
+	color: red;
+}
+.box{
+	font-size: 25px;
+	text-align: left;
+
+
+}
+.roll{
+	font-size: 25px;
+	text-align:left;
+}
+.slogan{
+	text-align: center;
+	font-size: 35px;
+
+}
